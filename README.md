@@ -19,9 +19,3 @@ MotionKey is a real-time computer-vision controller that converts body movements
 - MediaPipe Pose
 - PyAutoGUI
 - BlueStacks
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python motionkey_v3.py
